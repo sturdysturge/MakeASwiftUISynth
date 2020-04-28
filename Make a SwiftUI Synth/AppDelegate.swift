@@ -1,9 +1,8 @@
 //
 //  AppDelegate.swift
-//  MakeASwiftUISynth
+//  Make a SwiftUI Synth
 //
 //  Created by Rob Sturgeon on 28/04/2020.
-//  Copyright © 2020 Rob Sturgeon. All rights reserved.
 //
 
 import UIKit

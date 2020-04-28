@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:MakeASwiftUISynth.xcodeproj">
+      location = "self:Make a SwiftUI Synth.xcodeproj">
    </FileRef>
 </Workspace>
